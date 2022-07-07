@@ -51,6 +51,7 @@ hs_err_pid*
 log/
 
 target/
+test-output/
 
 hooks/pre-push
 
